@@ -50,3 +50,25 @@ security: 78
 ![image](https://github.com/Himasnhu-AT/Virtual-Internship---BA--DS/assets/117301124/19e6c055-1c6a-4c57-b055-b9433af2308d)
 
 ![image](https://github.com/Himasnhu-AT/Virtual-Internship---BA--DS/assets/117301124/48a87e60-d30d-4228-8d13-e78052e08b5d)
+
+
+## Task 2
+### files:
+- customer_booking.csv : raw data of all the passenger travelling.
+- Report 2.pptx: Report of my findings.
+- Getting Started.ipynb: complete file where i import file, check status, build and train model, see correctness of predictions.
+- British Airways.pdf: My certificate.
+
+#### Summarization of code: 
+
+1. Random Forest Classifier: The report demonstrates the use of a Random Forest Classifier model to predict the correctness of flight booking predictions. The model is trained on a dataset that includes various features such as the number of passengers, sales channel, trip type, flight duration, and more. The Random Forest Classifier is trained and evaluated using accuracy as the performance metric.
+
+2. Correctness Visualization: The report includes a visualization of the correctness of model predictions using a line chart. The line chart shows the cumulative correctness of predictions as the number of predictions increases. The chart allows for an understanding of how the model's performance improves over the course of making predictions.
+
+#### Model Correctness: 0.8554
+
+![image](https://github.com/Himasnhu-AT/Virtual-Internship---BA--DS/assets/117301124/a42e0d56-b595-4239-9d7e-228556d91cb4)
+
+#### Top features affecting customer booking:
+
+![image](https://github.com/Himasnhu-AT/Virtual-Internship---BA--DS/assets/117301124/fe3313d3-55b0-4240-b268-5f08fe2b41d7)
